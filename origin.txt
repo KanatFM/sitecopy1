@@ -1,0 +1,168 @@
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\index.htm
+Content Type: text/html
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17187514_396.png
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17187514_396.png
+Content Type: image/png
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17191923_300.png
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17191923_300.png
+Content Type: image/png
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17192193_300.png
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17192193_300.png
+Content Type: image/png
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17187060_300.png
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17187060_300.png
+Content Type: image/png
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/16959008_200.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\16959008_200.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/16190773_200.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\16190773_200.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/16190814_200.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\16190814_200.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/16260536_200.png
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\16260536_200.png
+Content Type: image/png
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/16846345_200.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\16846345_200.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/16084341_200.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\16084341_200.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17187514_342.png
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17187514_342.png
+Content Type: image/png
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17187514_252.png
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17187514_252.png
+Content Type: image/png
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/_s/images/v3/theme/4/res/handswipe.svg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\_s\images\v3\theme\4\res\handswipe.svg
+Content Type: image/svg+xml
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/files/favicon_371283.png
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\files\favicon_371283.png
+Content Type: image/png
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/_s/theme/4/_components.css
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\_s\theme\4\_components.css
+Content Type: text/css
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/_s/theme/4/_adaptive.css
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\_s\theme\4\_adaptive.css
+Content Type: text/css
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/_s/theme/4/_fixes.css
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\_s\theme\4\_fixes.css
+Content Type: text/css
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/_app/lp/859561_1595336518.css
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\_app\lp\859561_1595336518.css
+Content Type: text/css
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17190511_1920.png
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17190511_1920.png
+Content Type: image/png
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17203904_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17203904_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17203905_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17203905_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17203932_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17203932_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17191687_1920.png
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17191687_1920.png
+Content Type: image/png
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17203924_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17203924_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17203925_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17203925_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17203067_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17203067_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17203926_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17203926_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17195752_1920.png
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17195752_1920.png
+Content Type: image/png
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17203956_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17203956_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17203957_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17203957_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17203062_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17203062_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17204011_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17204011_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17195896_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17195896_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17195897_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17195897_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17195901_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17195901_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17195904_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17195904_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17195907_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17195907_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/img/17195908_1920.jpg
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\img\17195908_1920.jpg
+Content Type: image/jpeg
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/_s/lib/jquery/jquery-3.2.1+debounce.min.js
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\_s\lib\jquery\jquery-3.2.1 debounce.min.js
+Content Type: application/javascript
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/_s/theme/4/_core.js
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\_s\theme\4\_core.js
+Content Type: application/javascript
+
+Uri: https://3f2d6e743ea1eca8918677757e8d7beb.copysite.online/_s/theme/4/_client.js
+File Name: c:\Downloaded Web Sites\3f2d6e743ea1eca8918677757e8d7beb.copysite.online\_s\theme\4\_client.js
+Content Type: application/javascript
+
